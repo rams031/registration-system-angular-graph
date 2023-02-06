@@ -18,7 +18,14 @@
     "@angular/platform-browser": "~13.3.0",
     "@angular/platform-browser-dynamic": "~13.3.0",
     "@angular/router": "~13.3.0",
+    "@apollo/client": "^3.7.7",
+    "@heroicons/react": "^2.0.14",
+    "apollo-angular": "^4.2.0",
+    "daisyui": "^2.43.2",
+    "graphql": "^16.6.0",
+    "ng-cli-pug-loader": "^0.2.2",
     "rxjs": "~7.5.0",
+    "sweetalert2": "^11.6.15",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
@@ -28,12 +35,17 @@
     "@angular/compiler-cli": "~13.3.0",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",
+    "autoprefixer": "^10.4.13",
     "jasmine-core": "~4.0.0",
     "karma": "~6.3.0",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage": "~2.1.0",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
+    "ngx-pug-builders": "^13.1.0",
+    "postcss": "^8.4.20",
+    "pug": "^3.0.2",
+    "tailwindcss": "^3.2.4",
     "typescript": "~4.6.2"
   }
 }

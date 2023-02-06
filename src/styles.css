@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+    font-family: 'Inter', sans-serif;
+}
+
+@supports (font-variation-settings: normal) {
+    :root {
+        font-family: 'Inter var', sans-serif;
+    }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.basisHalf {
+    @apply basis-1/2;
+}
+
+.formInput {
+    @apply input w-full p-3 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 shadow shadow-indigo-200;
+}
+
+.formInputHover {
+    @apply hover:shadow-md hover:shadow-indigo-200;
+}

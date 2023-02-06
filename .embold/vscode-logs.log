@@ -1,0 +1,293 @@
+2022-12-15 13:48:54 info: tempDirectory:c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-15 13:48:54 info: Extraction complete for source: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-15 13:48:54 info: Congratulations, your extension "Embold" is now active!
+2022-12-15 13:56:23 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/src/app/home/home.component.html
+2022-12-15 13:56:23 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:04:23 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/src/app/app.component.html
+2022-12-15 14:04:23 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:11:44 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/0.pack_
+2022-12-15 14:11:44 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2022-12-15 14:11:44 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-15 14:11:44 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:11:44 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:11:44 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:12:26 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/2.pack_
+2022-12-15 14:12:26 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:19:10 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/3.pack_
+2022-12-15 14:19:10 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/4.pack_
+2022-12-15 14:19:10 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:19:11 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:46:11 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/9.pack_
+2022-12-15 14:46:11 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/10.pack_
+2022-12-15 14:46:11 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-15 14:46:11 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:46:12 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:46:12 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:55:15 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2022-12-15 14:55:15 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-15 14:55:15 error: SQLITE_ERROR: no such table: issues
+2022-12-15 14:55:15 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:36:23 info: tempDirectory:c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-16 08:36:23 info: Extraction complete for source: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-16 08:36:23 info: Congratulations, your extension "Embold" is now active!
+2022-12-16 08:44:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/0.pack_
+2022-12-16 08:44:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/5.pack_
+2022-12-16 08:44:47 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/7.pack_
+2022-12-16 08:44:47 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/11.pack_
+2022-12-16 08:44:47 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 08:44:47 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:44:47 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:44:47 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:44:47 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:44:47 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:45:02 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/0.pack_
+2022-12-16 08:45:02 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/3.pack_
+2022-12-16 08:45:02 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/7.pack_
+2022-12-16 08:45:02 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 08:45:02 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:45:02 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:45:02 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:45:02 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:50:23 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/4.pack_
+2022-12-16 08:50:23 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 08:50:23 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:50:23 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:53:51 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/5.pack_
+2022-12-16 08:53:51 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 08:53:51 error: SQLITE_ERROR: no such table: issues
+2022-12-16 08:53:51 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:07:32 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2022-12-16 09:07:32 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/4.pack_
+2022-12-16 09:07:32 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:07:32 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:13:49 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/9.pack_
+2022-12-16 09:13:49 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:14:52 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2022-12-16 09:14:52 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/5.pack_
+2022-12-16 09:14:52 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 09:14:52 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:14:52 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:14:52 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:24:00 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/8.pack_
+2022-12-16 09:24:00 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 09:24:00 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:24:00 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:24:37 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack
+2022-12-16 09:24:37 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:24:37 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 09:24:37 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:26:53 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2022-12-16 09:26:53 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 09:26:53 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:26:53 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:30:04 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/9.pack_
+2022-12-16 09:30:04 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:35:18 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/4.pack_
+2022-12-16 09:35:18 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 09:35:18 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:35:18 error: SQLITE_ERROR: no such table: issues
+2022-12-16 09:57:58 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 09:57:58 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:04:08 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2022-12-16 10:04:08 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 10:04:08 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:04:08 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:18:38 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/2.pack_
+2022-12-16 10:18:38 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:18:49 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2022-12-16 10:18:49 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/5.pack_
+2022-12-16 10:18:49 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/10.pack_
+2022-12-16 10:18:49 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:18:49 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:18:49 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:18:54 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/11.pack_
+2022-12-16 10:18:54 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:19:27 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/3.pack_
+2022-12-16 10:19:27 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:19:41 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/0.pack_
+2022-12-16 10:19:41 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/3.pack_
+2022-12-16 10:19:41 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/4.pack_
+2022-12-16 10:19:41 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:19:41 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:19:41 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:20:45 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/0.pack_
+2022-12-16 10:20:45 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/12.pack_
+2022-12-16 10:20:45 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:20:45 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:39:48 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack
+2022-12-16 10:39:48 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:39:56 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2022-12-16 10:39:56 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/3.pack_
+2022-12-16 10:39:56 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:39:56 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:50:11 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/0.pack_
+2022-12-16 10:50:11 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2022-12-16 10:50:11 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/3.pack_
+2022-12-16 10:50:11 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 10:50:11 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:50:11 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:50:11 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:50:11 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:53:47 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/0.pack_
+2022-12-16 10:53:47 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/3.pack_
+2022-12-16 10:53:47 error: SQLITE_ERROR: no such table: issues
+2022-12-16 10:53:47 error: SQLITE_ERROR: no such table: issues
+2022-12-16 11:13:50 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/2.pack_
+2022-12-16 11:13:50 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 11:13:50 error: SQLITE_ERROR: no such table: issues
+2022-12-16 11:13:50 error: SQLITE_ERROR: no such table: issues
+2022-12-16 11:14:40 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/2.pack_
+2022-12-16 11:14:40 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 11:14:40 error: SQLITE_ERROR: no such table: issues
+2022-12-16 11:14:40 error: SQLITE_ERROR: no such table: issues
+2022-12-16 11:14:53 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/0.pack_
+2022-12-16 11:14:53 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/2.pack_
+2022-12-16 11:14:53 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2022-12-16 11:14:53 error: SQLITE_ERROR: no such table: issues
+2022-12-16 11:14:53 error: SQLITE_ERROR: no such table: issues
+2022-12-16 11:14:53 error: SQLITE_ERROR: no such table: issues
+2022-12-16 11:35:34 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/0.pack_
+2022-12-16 11:35:34 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/3.pack_
+2022-12-16 11:35:34 error: SQLITE_ERROR: no such table: issues
+2022-12-16 11:35:34 error: SQLITE_ERROR: no such table: issues
+2022-12-19 08:12:55 info: tempDirectory:c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-19 08:12:55 info: Extraction complete for source: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-19 08:12:55 info: Congratulations, your extension "Embold" is now active!
+2022-12-19 08:33:21 info: tempDirectory:c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-19 08:33:21 info: Extraction complete for source: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-19 08:33:21 info: Congratulations, your extension "Embold" is now active!
+2023-02-06 10:18:38 info: tempDirectory:c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-02-06 10:18:38 info: Extraction complete for source: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Xypher Solutions Inc\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-02-06 10:18:38 info: Congratulations, your extension "Embold" is now active!
+2023-02-06 10:27:36 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/4.pack
+2023-02-06 10:27:36 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack
+2023-02-06 10:27:36 error: SQLITE_ERROR: no such table: issues
+2023-02-06 10:27:36 error: SQLITE_ERROR: no such table: issues
+2023-02-06 10:27:38 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/2.pack_
+2023-02-06 10:27:38 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2023-02-06 10:27:38 error: SQLITE_ERROR: no such table: issues
+2023-02-06 10:27:38 error: SQLITE_ERROR: no such table: issues
+2023-02-06 10:53:12 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/index.pack_
+2023-02-06 10:53:12 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:07:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/1.pack_
+2023-02-06 11:07:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/3.pack_
+2023-02-06 11:07:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/6.pack_
+2023-02-06 11:07:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/7.pack_
+2023-02-06 11:07:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/8.pack_
+2023-02-06 11:07:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/10.pack_
+2023-02-06 11:07:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/d0167f9ba092113f06f4e6a80e9f23dc4764f58a/11.pack_
+2023-02-06 11:07:46 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:07:46 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:07:46 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:07:46 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:07:46 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:07:48 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:07:48 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:11:54 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/1.pack_
+2023-02-06 11:11:54 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:12:41 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/0.pack_
+2023-02-06 11:12:41 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/1.pack_
+2023-02-06 11:12:41 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/2.pack_
+2023-02-06 11:12:41 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/3.pack_
+2023-02-06 11:12:41 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 11:12:41 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:12:41 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:12:41 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:12:41 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:12:41 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:18:49 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/6.pack_
+2023-02-06 11:18:49 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/8.pack_
+2023-02-06 11:18:49 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 11:18:49 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:18:49 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:18:49 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:23:04 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/6.pack_
+2023-02-06 11:23:04 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/8.pack_
+2023-02-06 11:23:04 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 11:23:04 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:23:04 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:23:04 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:25:03 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/4.pack_
+2023-02-06 11:25:03 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:38:33 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/9.pack_
+2023-02-06 11:38:33 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/10.pack_
+2023-02-06 11:38:33 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 11:38:33 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:38:34 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:38:34 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:44:07 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/7.pack_
+2023-02-06 11:44:07 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/9.pack_
+2023-02-06 11:44:07 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/10.pack_
+2023-02-06 11:44:07 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/11.pack_
+2023-02-06 11:44:07 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 11:44:07 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:44:07 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:44:07 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:44:07 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:44:07 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:45:04 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/4.pack_
+2023-02-06 11:45:04 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/9.pack_
+2023-02-06 11:45:04 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 11:45:04 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:45:04 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:45:04 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:45:39 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/4.pack_
+2023-02-06 11:45:39 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 11:45:39 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:45:39 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:46:21 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/9.pack_
+2023-02-06 11:46:21 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:46:42 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/4.pack_
+2023-02-06 11:46:42 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 11:46:42 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:46:42 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:46:46 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/9.pack_
+2023-02-06 11:46:46 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:47:15 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/9.pack_
+2023-02-06 11:47:15 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:53:24 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/1.pack_
+2023-02-06 11:53:24 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/2.pack_
+2023-02-06 11:53:24 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 11:53:24 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:53:24 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:53:24 error: SQLITE_ERROR: no such table: issues
+2023-02-06 11:58:32 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/6.pack_
+2023-02-06 11:58:32 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:10:24 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/4.pack_
+2023-02-06 13:10:24 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/6.pack_
+2023-02-06 13:10:24 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 13:10:24 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:10:24 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:10:24 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:10:36 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/4.pack_
+2023-02-06 13:10:36 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/6.pack_
+2023-02-06 13:10:36 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/index.pack_
+2023-02-06 13:10:36 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:10:36 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:10:36 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:11:44 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/4.pack_
+2023-02-06 13:11:44 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:14:06 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/4.pack_
+2023-02-06 13:14:06 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:14:53 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/4.pack_
+2023-02-06 13:14:53 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:22:57 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/7.pack_
+2023-02-06 13:22:57 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/8.pack_
+2023-02-06 13:22:57 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/10.pack_
+2023-02-06 13:22:57 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/11.pack_
+2023-02-06 13:22:57 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:22:57 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:22:57 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:22:57 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:29:08 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/src/app/graphql.module.ts
+2023-02-06 13:29:08 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:32:59 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/0.pack_
+2023-02-06 13:32:59 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/11.pack_
+2023-02-06 13:32:59 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.angular/cache/13.3.10/angular-webpack/1f4c418f0148b19036f95dd3ec6686a98d5fe08d/15.pack_
+2023-02-06 13:32:59 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:32:59 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:32:59 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:35:37 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/.git/index.stash.7648
+2023-02-06 13:35:37 error: SQLITE_ERROR: no such table: issues
+2023-02-06 13:35:57 info: file:///c%3A/Users/Xypher%20Solutions%20Inc/Desktop/angular/todolist/src/app/app.component.html
+2023-02-06 13:35:57 error: SQLITE_ERROR: no such table: issues
