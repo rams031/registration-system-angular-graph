@@ -1,0 +1,10 @@
+div
+  // Category Table
+  div.flex.flex-row.justify-between
+    div
+      h1.text-violet-500.font-semibold.text-xl
+    div
+      label.bg-violet-600.rounded-lg.p-4.capitalize.text-white.font-bold.cursor-pointer Add New Account
+  div
+    app-table(title="title", [column]='columns', [row]='getDataAction')
+

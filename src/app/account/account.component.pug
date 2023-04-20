@@ -1,0 +1,52 @@
+div
+  // Modal
+  input#my-modal.modal-toggle(type='checkbox', [(ngModel)]="modalSwitch")
+  div.modal
+    div.modal-box
+      div.flex.flex-row.justify-between
+        div 
+          h3.text-violet-600.font-bold.text-lg Create New User
+        div 
+          button((click)="changeModalViewStatus()") 
+            svg.text-violet-500.w-6.h-6(xmlns='http://www.w3.org/2000/svg' viewbox='0 0 24 24' fill='currentColor')
+              path(fill-rule='evenodd' d='M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm-1.72 6.97a.75.75 0 10-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 101.06 1.06L12 13.06l1.72 1.72a.75.75 0 101.06-1.06L13.06 12l1.72-1.72a.75.75 0 10-1.06-1.06L12 10.94l-1.72-1.72z' clip-rule='evenodd')
+      form.grid.grid-cols-2.gap-2.py-4(  (ngSubmit)="onSubmit(f)" ngForm #f="ngForm" novalidate)
+        div(*ngIf="f.submitted && f.invalid").col-span-2.flex.flex-row.gap-2.bg-red-400.rounded-lg.py-2.px-5
+          svg.stroke-current.flex-shrink-0.h-6.w-6(fill='none' viewbox='0 0 24 24')
+            path.text-white(stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z')
+          span.text-white Make sure to full form.
+        div 
+          label.text-sm.font-bold.text-violet-800 Full Name
+          input.input.input-bordered.border-gray-200.w-full.max-w-xs(name="fullName" ngModel  #fullName="ngModel" required type='text' placeholder='')
+          label.text-red-500.text-xs(*ngIf="f.submitted && fullName.errors?.['required']") Name is required.
+        div 
+          label.text-sm.font-bold.text-violet-800 User Name
+          input.input.input-bordered.border-gray-200.w-full.max-w-xs(name="userName" ngModel  #userName="ngModel" required type='text' placeholder='')
+          label.text-red-500.text-xs(*ngIf="f.submitted && userName.errors?.['required']") User Name is required.
+        div
+          label.text-sm.font-bold.text-violet-800 Email
+          input.input.input-bordered.border-gray-200.w-full.max-w-xs(name="email" ngModel #email="ngModel" type='email' required email placeholder='')
+          label.text-red-500.text-xs(*ngIf="f.submitted && email.errors?.['required']") Email is required.       
+          label.text-red-500.text-xs(*ngIf="f.submitted && email.errors?.['email']") Email Format is required.   
+        div 
+          label.text-sm.font-bold.text-violet-800 Password
+          input.input.input-bordered.border-gray-200.w-full.max-w-xs(name="password" ngModel #password="ngModel" type='password' required placeholder='')
+          label.text-red-500.text-xs(*ngIf="f.submitted && password.errors?.['required']") Password is required.  
+        div.col-span-2
+          label.text-sm.font-bold.text-violet-800 Account Type
+          select.select.select-bordered.w-full(name="accountType" ngModel #accountType="ngModel" required)
+            option(disabled='' selected) Select Account Type
+            option(value="voter") Voter
+            option(value="admin") Administrator
+          label.text-red-500.text-xs(*ngIf="f.submitted && accountType.errors?.['required']") Account Type is required.  
+        div.flex.col-span-2.justify-end.pt-2
+          button.bg-violet-600.rounded-lg.p-4.capitalize.text-white.font-bold.cursor-pointer Add Account
+
+  // Accounts Component
+  div.flex.flex-row.justify-between
+    div
+      h1.text-violet-500.font-semibold.text-xl {{ title }}
+    div
+      label.bg-violet-600.rounded-lg.p-4.capitalize.text-white.font-bold.cursor-pointer(for='my-modal') Add New Account
+  div
+    app-table(title="title", [column]='columns', [row]='accountList')

@@ -1,36 +1,13 @@
-div.min-h-screen.flex.flex-row.width-full.justify-center.items-center.bg-indigo-400
-  div.basisHalf.flex.flex-col.bg-white.p-25.border-rounded.px-5.py-4.rounded-md.shadow-md.w-full
-    form
-      div.flex.justify-center.items-center.text-violet-600.font-bold.text-xl.py-2 Sign In
-      div.flex.flex-col.p-2
-        label.text-sm.font-bold.text-violet-800.p-1 Username
-        input.formInput((keyup)="handleOnchange($event)" required=true type="text" name="username" placeholder="Username")
-      div.flex.flex-col.p-2
-        label.text-sm.font-bold.text-violet-800.p-1 Password
-        input.formInput((keyup)="handleOnchange($event)" required=true type="password" name="password" placeholder="Password")
-      div.flex.justify-end.items-center.px-2
-        button.formInputHover.bg-white.shadow.shadow-indigo-200.m-3.rounded.py-2.px-5.font-bold.text-violet-800((click)="onSubmit($event)") Submit
+div 
+  router-outlet
+    //- div.min-h-screen.flex.flex-row.w-full
+    //-   div.basis-80.bg-violet-200
+
+//- (*ngIf="isAuthenticated")
+//- div(*ngIf="!isAuthenticated")
+//-   div.min-h-screen.flex.flex-row.width-full 
+//-     div.flex.flex-row.w-full
+//-       div.basis-full.bg-violet-200 
+//-       router-outlet
 
 
-
-
-
-
-
-
-  //- div.basisHalf.bg-white.p-25.border-rounded.px-5.py-4.rounded-md.shadow-md
-  //-   div
-  //-     form.flex.flex-col.gap-2.w-full.flex.flex-col
-  //-       div.flex.flex-row.space-x-2.items-center
-  //-         div.form-control.basis-full
-  //-           input.input.border-gray-400((keyup)="handleOnchange($event)" type="text" name="todoName" placeholder="Todo Activity")
-  //-           //- input.input.border-gray-400(#todoName (keyup)="handleOnchange(todoName)" type="text" placeholder="Type here")
-  //-           // [value]="todoObject.todoName"
-  //-         div
-  //-           button.btn.btn-primary.pt-2((click)="onSubmit($event)") Add
-  //-       div 
-  //-         label.label
-  //-           span.label-text.text-gray-500.font-semibold Create Todo
-  //-   div 
-  //-     ul
-  //-       li.capitalize.font-bold.font-lg.text-violet-500.bg-gray-100.shadow-xs.p-4.m-1.rounded-md(*ngFor="let item of todoObject, let i = index") {{item?.todoName}}

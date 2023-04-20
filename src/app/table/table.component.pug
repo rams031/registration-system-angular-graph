@@ -1,0 +1,16 @@
+div
+  div.py-10
+    table.w-full.text-sm.text-left.text-gray-500.border-r-4.border-indigo-400.rounded-lg
+      thead.text-xs.text-gray-700.uppercase.bg-gray-50.border-lg
+        tr.bg-violet-50.text-violet-600
+          th.px-6.py-3(scope='col', *ngFor='let columnItem of column') {{columnItem?.fieldName ?? "--"}}
+      tbody(*ngIf='(row | async); else loading')
+        tr.bg-white.border-b(*ngFor='let rowItem of row | async')
+          th.px-6.py-4.font-medium.text-gray-900.whitespace-nowrap(scope='row', *ngFor='let childItem of column') {{rowItem[childItem.field] ?? "--"}}
+      ng-template(#loading)
+        tr
+          svg.animate-spin.bg-violet-600.h-5.w-5.mr-3(viewbox='0 0 24 24')
+
+
+
+

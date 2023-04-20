@@ -1,0 +1,10 @@
+div.min-h-screen.w-full.flex.flex-row
+  //- button((click)=Dashboard()) Deposit Coins
+  div.basis-80.bg-violet-300.py-20
+    ul.flex.flex-col.gap-2.justify-center.items-center
+      li.capitalize.cursor-pointer.text-white.font-semibold.text-lg.w-full.bg-violet-500.px-4.py-3.sidebarHover(*ngFor="let path  of childRoutes", (click)='navigate("/adminportal/", path.path)') {{path.path}}
+
+  div.basis-full
+    div.px-8.py-12
+      router-outlet
+

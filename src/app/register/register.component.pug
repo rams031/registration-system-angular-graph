@@ -1,0 +1,22 @@
+div.basisHalf.bg-white.flex.h-full.justify-center.items-center.px-4.animate__animated.animate__fadeIn
+  //- form(role="form" [formGroup]="profileForm" (ngSubmit)="onSubmit()")
+  form.w-96((ngSubmit)="onSubmit($event)")
+    //- div.p-4.mb-4.text-sm.text-red-800.rounded-lg.bg-red-50.text-center(role="alert")
+    //-   span.font-medium Invalid Credential. Change a few things up and try submitting again.
+    div.flex.justify-start.items-center
+      a.formInputHover.bg-white.shadow.shadow-indigo-200.m-3.rounded.py-2.px-5.font-bold.text-violet-800(href="/login") Back
+    div.flex.justify-center.items-center.text-violet-600.font-bold.text-xl.py-2 Register Account
+    div.flex.flex-col.p-2
+      label.text-sm.font-bold.text-violet-800.p-1 Full Name
+      input.formInput([(ngModel)]="RegisterCredential.fullName" type="text" name="username" required)
+    div.flex.flex-col.p-2
+      label.text-sm.font-bold.text-violet-800.p-1 Username
+      input.formInput([(ngModel)]="RegisterCredential.userName" type="text" name="username" required)
+    div.flex.flex-col.p-2
+      label.text-sm.font-bold.text-violet-800.p-1 Password
+      input.formInput([(ngModel)]="RegisterCredential.password" type="password" name="password" required)
+    div.flex.justify-end.items-center.px-2
+      button.formInputHover.bg-white.shadow.shadow-indigo-200.m-3.rounded.py-2.px-5.font-bold.text-violet-800(type="submit") Register
+    div 
+      ul 
+        li(*ngFor="let item of accountList | async") id - {{item.id}} Username - {{item.fullName}} - Password {{item.userName}}

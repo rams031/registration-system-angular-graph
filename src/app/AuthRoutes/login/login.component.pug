@@ -1,0 +1,16 @@
+div.min-h-screen.bg-gray-100.flex.justify-center.items-center
+    div.flex.justify-center.items-center.border-t-4.bg-white.border-yellow-300.p-10.shadow-lg
+        form.form-control.flex.flex-col.gap-2.w-full((ngSubmit)="onSubmit(f)" ngForm #f="ngForm" novalidate)
+            div.text-3xl.text-gray-600.font-bold Login 
+            hr
+            div.font-semibold Sign in to start your session
+            div.flex.flex-col
+                label.label.label-text Username
+                input.formInput(name="username" ngModel  #username="ngModel" type='text' placeholder='Username' required)
+                label.mt-1.text-red-500.text-xs(*ngIf="f.submitted && username.errors?.['required']") Username is required.
+            div.flex.flex-col
+                label.label.label-text Password
+                input.formInput(name="password" ngModel  #password="ngModel" type='password' placeholder='Password' required)
+                label.mt-1.text-red-500.text-xs(*ngIf="f.submitted && password.errors?.['required']") Password is required.
+            div.flex.flex-row.justify-end.items-center.pt-2
+                button.btn.bg-yellow-500.text-white.border-0(type='submit') Login
